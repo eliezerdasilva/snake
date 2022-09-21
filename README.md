@@ -25,4 +25,6 @@
  
   
 </div>
- 
+ <div>
+![snake gif](https://github.com/eliezerdasilva/eliezerdasilva/blob/output/github-contribution-grid-snake.gif)
+  </div>
